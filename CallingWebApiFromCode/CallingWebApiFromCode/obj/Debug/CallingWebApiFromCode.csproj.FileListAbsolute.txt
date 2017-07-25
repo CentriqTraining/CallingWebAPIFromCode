@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\CallingWebApiFromCode.exe.config
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\CallingWebApiFromCode.exe
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\CallingWebApiFromCode.pdb
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\Newtonsoft.Json.dll
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\Newtonsoft.Json.xml
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.exe
+e:\documents\visual studio 2015\Projects\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.pdb
