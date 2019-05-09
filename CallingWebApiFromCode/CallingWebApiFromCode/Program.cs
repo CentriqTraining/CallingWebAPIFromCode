@@ -12,12 +12,18 @@ namespace CallingWebApiFromCode
             //  Need to have Newtonsoft.JSON library installed
             //  Either find it from "Manage nuget packages" from right-clicking the project
             //  Or pull up package manager console and type "Install-package newtonsoft.json"
-            string url = "http://centriqdata.azurewebsites.net/data/toons";
+            string url = "http://centriqdata.azurewebsites.net/data/chuck";
 
             //  Using web client
             WebClient client = new WebClient();
             var results = client.DownloadString(new Uri(url));
-            var Toons = JsonConvert.DeserializeObject<IEnumerable<Toon>>(results);
+            var Toons = JsonConvert.DeserializeObject<Datatarget>(results);
         }
+
+
+    }
+    public class Datatarget
+    {
+        public Toon[] items;
     }
 }
