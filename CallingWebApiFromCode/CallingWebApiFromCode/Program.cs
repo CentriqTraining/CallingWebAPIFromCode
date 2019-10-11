@@ -17,7 +17,7 @@ namespace CallingWebApiFromCode
             //  Using web client
             WebClient client = new WebClient();
             var results = client.DownloadString(new Uri(url));
-            var Toons = JsonConvert.DeserializeObject<Datatarget>(results);
+            var Toons = JsonConvert.DeserializeObject<List<Toon>>(results);
         }
 
 

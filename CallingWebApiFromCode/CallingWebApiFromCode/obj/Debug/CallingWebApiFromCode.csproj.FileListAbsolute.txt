@@ -16,3 +16,13 @@ C:\Users\Student\Documents\GitHub\CallingWebAPIFromCode\CallingWebApiFromCode\Ca
 C:\Users\Student\Documents\GitHub\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.csproj.CopyComplete
 C:\Users\Student\Documents\GitHub\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.exe
 C:\Users\Student\Documents\GitHub\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.pdb
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\CallingWebApiFromCode.exe.config
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\CallingWebApiFromCode.exe
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\CallingWebApiFromCode.pdb
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\Newtonsoft.Json.dll
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\bin\Debug\Newtonsoft.Json.xml
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.csprojAssemblyReference.cache
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.csproj.CoreCompileInputs.cache
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.csproj.CopyComplete
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.exe
+C:\repo\github\CallingWebAPIFromCode\CallingWebApiFromCode\CallingWebApiFromCode\obj\Debug\CallingWebApiFromCode.pdb
